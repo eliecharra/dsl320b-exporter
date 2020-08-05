@@ -10,6 +10,8 @@ github.com/cenkalti/backoff v2.1.1+incompatible h1:tKJnvO2kl0zmb/jA5UKAt4VoEVw1q
 github.com/cenkalti/backoff v2.1.1+incompatible/go.mod h1:90ReRw6GdpyfrHakVjL/QHaoyV4aDUVVkXQJJJ3NXXM=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/fluffle/go-telnet v0.0.0-20180906210534-514a30bc07f4 h1:ZBiOiRXcFWnqydgqlLGEyp5UPJ6BJkmBdH+t8Lgg1oI=
+github.com/fluffle/go-telnet v0.0.0-20180906210534-514a30bc07f4/go.mod h1:4MiK1P/II55QpV1qfoAGRU9lPkM/4H6b3XJSPHzIgKY=
 github.com/fluffle/go-telnet v0.0.0-20180906220507-514a30bc07f4 h1:FtbRaUl/Z2n0d9M7qHcYA/NkYdKhnME6mx9yk/taEEw=
 github.com/fluffle/go-telnet v0.0.0-20180906220507-514a30bc07f4/go.mod h1:4MiK1P/II55QpV1qfoAGRU9lPkM/4H6b3XJSPHzIgKY=
 github.com/go-kit/kit v0.8.0/go.mod h1:xBxKIO96dXMWWy0MnWVtmwkA9/13aqxPnvrjFYMA2as=

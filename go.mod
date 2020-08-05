@@ -27,4 +27,4 @@ require (
 	gopkg.in/yaml.v2 v2.2.2 // indirect
 )
 
-replace github.com/reiver/go-telnet => github.com/fluffle/go-telnet v0.0.0-20180906220507-514a30bc07f4
+replace github.com/reiver/go-telnet => github.com/fluffle/go-telnet v0.0.0-20180906210534-514a30bc07f4
